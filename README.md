@@ -1,3 +1,5 @@
+
+
 # Dual-Port-Ram(SOC)-Verification-UVM-
 Developed a UVM-based verification environment for validating a dual-port RAM supporting simultaneous read and write operations. 
 Implemented sequencers, drivers, monitors, scoreboards, and functional coverage models to verify data integrity, address collision handling, concurrent accesses, and corner-case scenarios using constrained-random stimulus and self-checking mechanisms.
@@ -7,7 +9,9 @@ Designed and verified a multi-instance dual-port RAM subsystem containing four i
 ## Overview
 This project implements a UVM-based verification environment for validating a Dual-Port RAM design supporting simultaneous read and write operations. The environment uses constrained-random stimulus, self-checking scoreboards, and functional coverage to verify data integrity, concurrent accesses, address collision handling, and corner-case scenarios.
 
----
+ ==================================
+||THE RTL IS A PROPRIETARY MATERIAL||
+ ==================================
 
 ## Verification Features
 - Simultaneous Read/Write Verification
