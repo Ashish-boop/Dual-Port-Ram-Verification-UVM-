@@ -13,6 +13,8 @@ This project implements a UVM-based verification environment for validating a Du
 ||THE RTL IS A PROPRIETARY MATERIAL||
  ==================================
 
+
+
 ## Verification Features
 - Simultaneous Read/Write Verification
 - Data Integrity Checking
