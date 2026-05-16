@@ -10,7 +10,7 @@ Designed and verified a multi-instance dual-port RAM subsystem containing four i
 This project implements a UVM-based verification environment for validating a Dual-Port RAM design supporting simultaneous read and write operations. The environment uses constrained-random stimulus, self-checking scoreboards, and functional coverage to verify data integrity, concurrent accesses, address collision handling, and corner-case scenarios.
 
  ==================================
-||THE RTL IS A PROPRIETARY MATERIAL||
+||  RTL IS A PROPRIETARY MATERIAL ||
  ==================================
 
 
